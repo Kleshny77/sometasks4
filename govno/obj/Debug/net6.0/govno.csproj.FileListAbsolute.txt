@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/inch/govno/bin/Debug/net6.0/govno
+/Users/kleshny/Projects/inch/govno/bin/Debug/net6.0/govno.deps.json
+/Users/kleshny/Projects/inch/govno/bin/Debug/net6.0/govno.runtimeconfig.json
+/Users/kleshny/Projects/inch/govno/bin/Debug/net6.0/govno.dll
+/Users/kleshny/Projects/inch/govno/bin/Debug/net6.0/govno.pdb
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.AssemblyInfo.cs
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.dll
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/refint/govno.dll
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.pdb
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/govno.genruntimeconfig.cache
+/Users/kleshny/Projects/inch/govno/obj/Debug/net6.0/ref/govno.dll

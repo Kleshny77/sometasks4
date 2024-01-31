@@ -1,0 +1,15 @@
+/Users/kleshny/Projects/inch/семинар какой то там/bin/Debug/net6.0/семинар какой то там
+/Users/kleshny/Projects/inch/семинар какой то там/bin/Debug/net6.0/семинар какой то там.deps.json
+/Users/kleshny/Projects/inch/семинар какой то там/bin/Debug/net6.0/семинар какой то там.runtimeconfig.json
+/Users/kleshny/Projects/inch/семинар какой то там/bin/Debug/net6.0/семинар какой то там.dll
+/Users/kleshny/Projects/inch/семинар какой то там/bin/Debug/net6.0/семинар какой то там.pdb
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.csproj.AssemblyReference.cache
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.AssemblyInfoInputs.cache
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.AssemblyInfo.cs
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.csproj.CoreCompileInputs.cache
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.dll
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/refint/семинар какой то там.dll
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.pdb
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/семинар какой то там.genruntimeconfig.cache
+/Users/kleshny/Projects/inch/семинар какой то там/obj/Debug/net6.0/ref/семинар какой то там.dll
